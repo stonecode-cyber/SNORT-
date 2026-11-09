@@ -1,4 +1,4 @@
- This is my handon lab project using snort rulr in i=Intrusio detection system and the Intrusion Prevention system
+ This is my hands-on lab project using snort rule in iIntrusion detection system and the Intrusion Prevention system
 
 SNORT is an open-source, rule-based Network Intrusion Detection and Prevention System (NIDS/NIPS). 
 
